@@ -1,8 +1,1 @@
-
-body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
-header { background: #222; color: #fff; padding: 20px; text-align: center; }
-section { padding: 20px; background: #fff; margin: 15px; border-radius: 8px; }
-h2 { color: #333; }
-.chart-box { background:#eee; padding:20px; border-radius:10px; text-align:center; }
-.btn { background: #222; color: #fff; padding: 10px 15px; border-radius: 6px; text-decoration: none; }
-button { padding:10px 15px; border:none; background:#222; color:#fff; border-radius:6px; cursor:pointer; }
+.logo{width:160px} .buy-btn{padding:12px 22px;background:#00e0ff;color:#000;text-decoration:none;border-radius:10px;font-weight:bold;}
